@@ -3,7 +3,8 @@
 I'm currently using "The Odin Project", "freeCodeCamp", "Sololearn" and "MircosoftLearn" to improve my overall skills, especially in the area of web development.
 
 ## **Projects**
-Tic-Tac-Toe Game: https://mightycharm.github.io/tic-tac-toe/ 
+Tic-Tac-Toe Game: https://mightycharm.github.io/tic-tac-toe/ \
+Library: https://mightycharm.github.io/library/
 
 ## **Technologies Used**
 - **Programming Languages**: Python, C#, JavaScript, CSS, HTML
