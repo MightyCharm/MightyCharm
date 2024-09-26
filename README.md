@@ -2,8 +2,14 @@
 
 I'm currently using "The Odin Project", "freeCodeCamp", "Sololearn" and "MircosoftLearn" to improve my overall skills, especially in the area of web development.
 
-Project: Tic-Tac-Toe Game
-https://mightycharm.github.io/tic-tac-toe/
+## **Projects**
+Tic-Tac-Toe Game: https://mightycharm.github.io/tic-tac-toe/ 
+
+## **Technologies Used**
+- **Programming Languages**: Python, C#, JavaScript, CSS, HTML
+- **Version Control**: Git
+- **Database Management**: SQL
+- **Hardware**: Arduino
 <!--
 **MightyCharm/MightyCharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
