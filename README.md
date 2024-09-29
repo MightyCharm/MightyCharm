@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm currently using "The Odin Project", "freeCodeCamp", "Sololearn" and "MircosoftLearn" to improve my overall skills, especially in the area of web development.
+I'm currently using [The Odin Project](https://www.theodinproject.com/dashboard), [freeCodeCamp](https://www.freecodecamp.org/MightyCharm), [sololearn](https://www.sololearn.com/en/profile/25075522)  and [microsoftLearn](https://learn.microsoft.com/en-us/users/mightycharm-8961/)  to improve my overall skills, especially in the area of web development.
+
+
+
+
 
 ## **Projects**
 Tic-Tac-Toe Game: https://mightycharm.github.io/tic-tac-toe/ \
