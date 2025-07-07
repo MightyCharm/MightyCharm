@@ -9,7 +9,7 @@ I'm currently using [The Odin Project](https://www.theodinproject.com/dashboard)
 ## **Projects**
 Restaurant Page: https://mightycharm.github.io/restaurant-page/ \
 Tic-Tac-Toe Game: https://mightycharm.github.io/tic-tac-toe/ \
-Library: https://mightycharm.github.io/library/
+Library: https://mightycharm.github.io/library/ \
 Library2: https://mightycharm.github.io/library2/
 
 ## **Technologies Used**
