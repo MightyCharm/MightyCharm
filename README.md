@@ -8,6 +8,7 @@ I'm currently using [The Odin Project](https://www.theodinproject.com/dashboard)
 
 ## **Projects**
 - Tic-Tac-Toe2: https://mightycharm.github.io/tic-tac-toe2/
+- Restaurant Page2:  https://mightycharm.github.io/restaurant-page2/
 - Restaurant Page: https://mightycharm.github.io/restaurant-page/
 - Tic-Tac-Toe Game: https://mightycharm.github.io/tic-tac-toe/
 - Library2: https://mightycharm.github.io/library2/
