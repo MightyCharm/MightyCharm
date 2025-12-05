@@ -7,6 +7,7 @@ I'm currently using [The Odin Project](https://www.theodinproject.com/dashboard)
 
 
 ## **Projects**
+- Todo List:  https://mightycharm.github.io/todo-list2/
 - Restaurant Page2:  https://mightycharm.github.io/restaurant-page2/
 - Restaurant Page: https://mightycharm.github.io/restaurant-page/
 - Tic-Tac-Toe2: https://mightycharm.github.io/tic-tac-toe2/
