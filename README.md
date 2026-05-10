@@ -4,6 +4,10 @@ I'm actively improving my web development skills through hands-on practice on pl
 
 
 ## 📂 **Projects**
+### 🚀 Latest Project
+- **Weather App**: https://mightycharm.github.io/weather-app/
+
+### 📚 All Projects
 - Todo List:  https://mightycharm.github.io/todo-list2/
 - Restaurant Page2:  https://mightycharm.github.io/restaurant-page2/
 - Restaurant Page: https://mightycharm.github.io/restaurant-page/
