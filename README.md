@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm actively improving my web development skills through hands-on practice on platforms like [The Odin Project](https://www.theodinproject.com/dashboard), [freeCodeCamp](https://www.freecodecamp.org/MightyCharm), [Sololearn](https://www.sololearn.com/en/profile/25075522)  and [microsoftLearn](https://learn.microsoft.com/en-us/users/mightycharm-8961/).
+I'm actively improving my web development skills through hands-on practice on platforms like [The Odin Project](https://www.theodinproject.com/dashboard), [freeCodeCamp](https://www.freecodecamp.org/MightyCharm), [Sololearn](https://www.sololearn.com/en/profile/25075522), [LeetCode](https://leetcode.com/u/MightyCharm/),  and [microsoftLearn](https://learn.microsoft.com/en-us/users/mightycharm-8961/).
 
 
 ## 📂 **Projects**
@@ -8,15 +8,12 @@ I'm actively improving my web development skills through hands-on practice on pl
 - **Sachkunde Quiz**: https://mightycharm.github.io/gewo-sachkunde-quiz/
 
 
-### 📚 All Project
+### 📚 All Projects
 - Weather App: https://mightycharm.github.io/weather-app/
 - Todo List:  https://mightycharm.github.io/todo-list2/
-- Restaurant Page2:  https://mightycharm.github.io/restaurant-page2/
-- Restaurant Page: https://mightycharm.github.io/restaurant-page/
-- Tic-Tac-Toe2: https://mightycharm.github.io/tic-tac-toe2/
-- Tic-Tac-Toe: https://mightycharm.github.io/tic-tac-toe/
-- Library2: https://mightycharm.github.io/library2/
-- Library: https://mightycharm.github.io/library/
+- Restaurant Page:  https://mightycharm.github.io/restaurant-page2/
+- Tic-Tac-Toe: https://mightycharm.github.io/tic-tac-toe2/
+- Library: https://mightycharm.github.io/library2/
 
 ## ⚙️ **Technologies Used**
 
